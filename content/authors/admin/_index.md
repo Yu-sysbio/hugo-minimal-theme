@@ -32,9 +32,6 @@ social:
   - icon: orcid
     icon_pack: fab
     link: https://orcid.org/0000-0003-3326-9068
-  - icon: sci-hub
-    icon_pack: fab
-    link: https://scholar.google.com/citations?hl=en&user=tArfdEcAAAAJ
   - icon: researchgate
     icon_pack: fab
     link: https://www.researchgate.net/profile/Yu-Chen-104
