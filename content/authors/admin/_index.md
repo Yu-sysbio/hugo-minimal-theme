@@ -1,7 +1,7 @@
 ---
 # Display name
 title: 陈禹
-name_pronunciation: Chen Yu
+# name_pronunciation: Chen Yu
 
 # Is this the primary user of the site?
 superuser: true
@@ -10,8 +10,8 @@ superuser: true
 role: ''
 
 # Status emoji
-status:
-  icon: ☕️
+# status:
+#  icon: ☕️
 
 # Organizations/Affiliations
 #organizations:
@@ -28,13 +28,13 @@ bio: ''
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'mailto:yuchen.scholar@gmail.com'
   - icon: orcid
     icon_pack: fab
-    link: https://orcid.org/0000-0001-5547-3196
+    link: https://orcid.org/0000-0003-3326-9068
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/Yu-sysbio
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/uploads/resume.pdf`
   - icon: file-pdf
