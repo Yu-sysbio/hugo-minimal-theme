@@ -32,7 +32,7 @@ social:
   - icon: orcid
     icon_pack: fab
     link: https://orcid.org/0000-0003-3326-9068
-  - icon: google-scholar
+  - icon: googlescholar
     icon_pack: fab
     link: https://scholar.google.com/citations?hl=en&user=tArfdEcAAAAJ
   - icon: researchgate
