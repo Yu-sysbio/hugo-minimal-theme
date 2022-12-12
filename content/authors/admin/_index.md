@@ -29,11 +29,14 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:yuchen.scholar@gmail.com'
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?hl=en&user=tArfdEcAAAAJ
   - icon: orcid
-    icon_pack: fab
+    icon_pack: ai
     link: https://orcid.org/0000-0003-3326-9068
   - icon: researchgate
-    icon_pack: fab
+    icon_pack: ai
     link: https://www.researchgate.net/profile/Yu-Chen-104
   - icon: github
     icon_pack: fab
@@ -41,7 +44,7 @@ social:
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/uploads/resume.pdf`
   - icon: cv
-    icon_pack: fas
+    icon_pack: ai
     #label: View Resume
     link: uploads/resume.pdf
 # Enter email to display Gravatar (if Gravatar enabled in Config)
