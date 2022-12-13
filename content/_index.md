@@ -10,10 +10,6 @@ sections:
       username: admin
       text: |-
         Hi, I am Yu, a researcher focusing on systems biology of metabolism. 
-        I am interested in employing systems biology approaches (including modeling and experimental components) 
-        to quantitatively study cellular metabolism and behaviors, 
-        allowing us to gain insights into rational design of biological systems 
-        in the field of synthetic biology.
         {style="font-size: 1.2rem; background: #FFB76B); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
     design:
       background:
