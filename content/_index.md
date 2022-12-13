@@ -9,8 +9,8 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       text: |-
-        Hi, I am Yu, a researcher focusing on systems biology of metabolism.
-        {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
+        Hi, I am Yu, a systems biology researcher.
+        {style="font-size: 1.2rem; background: #FFB76B); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
     design:
       background:
         color: black
