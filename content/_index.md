@@ -10,7 +10,7 @@ sections:
       username: admin
       text: |-
         Hi, I am Yu, a systems biology researcher.
-        {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FF7F04 100%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
+        {style="font-size: 1.2rem; background: #FF5A01; background: linear-gradient(to right, #FF5A01 100%, #FF5A01 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
     design:
       background:
         color: black
