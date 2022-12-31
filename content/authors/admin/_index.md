@@ -38,8 +38,8 @@ social:
   - icon: researchgate
     icon_pack: ai
     link: https://www.researchgate.net/profile/Yu-Chen-104
-  - icon: youtube
-    icon_pack: ai
+  - icon: bilibili
+    icon_pack: fab
     link: https://space.bilibili.com/3461576327694348
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/uploads/resume.pdf`
