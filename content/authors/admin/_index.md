@@ -32,7 +32,7 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=en&user=tArfdEcAAAAJ
-  - icon: github
+  - icon: brands/github
     icon_pack: ai
     link: https://github.com/Yu-sysbio
   - icon: orcid
