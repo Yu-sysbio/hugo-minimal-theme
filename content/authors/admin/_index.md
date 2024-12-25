@@ -34,7 +34,7 @@ social:
     link: https://scholar.google.com/citations?hl=en&user=tArfdEcAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/
+    link: https://github.com/Yu-sysbio
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/yu-chen-b8523aa6/
