@@ -28,10 +28,13 @@ bio: ''
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:yuchen.scholar@gmail.com'
+    link: 'mailto:y.chen3@siat.ac.cn'
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=en&user=tArfdEcAAAAJ
+  - icon: github
+    icon_pack: ai
+    link: https://github.com/Yu-sysbio
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0000-0003-3326-9068
